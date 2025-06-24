@@ -92,7 +92,7 @@ You can modify or extend the dataset to improve accuracy.
 
 # Model Evaluation
 Each model was evaluated on:
--Accuracy
--Confusion Matrix
--ROC-AUC Score
--Visualizations are included in the Jupyter notebook (notebooks/ai_vs_human_detection.ipynb).
+- Accuracy
+- Confusion Matrix
+- ROC-AUC Score
+- Visualizations are included in the Jupyter notebook (notebooks/ai_vs_human_detection.ipynb).
